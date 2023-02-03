@@ -8,7 +8,7 @@ import Movies from './pages/Movies';
 //import Favorite from './pages/Favorite';
 import Searchs from './pages/Searchs';
 import Favorite from './pages/Favorite';
-import { createContext, useContext, useState } from 'react';
+import { createContext, useState } from 'react';
 
 export const favoriteContext= createContext()
 
